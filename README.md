@@ -2,7 +2,7 @@
 
 > A dark theme for [Google Chrome](https://chrome.google.com/webstore/detail/dracula-chrome-theme/gfapcejdoghpoidkfodoiiffaaibpaem?utm_source=chrome-ntp-icon).
 
-![Screenshot](./Screenshots/screen1.jpg)
+![Screenshot](./.github/Screenshots/screen1.jpg)
 
 ## Install
 
