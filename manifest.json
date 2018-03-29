@@ -1,8 +1,8 @@
 {
-  "description": "Chrome Dracula scheme color theme",
+  "description": "Chrome Dracula color theme",
   "manifest_version": 2,
   "name": "Dracula Chrome Theme - Dark and Minimal",
-  "version": "1.1",
+  "version": "1.0",
   "icons": {},
   "theme": {
     "colors": {
